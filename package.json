@@ -1,0 +1,24 @@
+{
+  "name": "api_from_scratch",
+  "version": "1.0.0",
+  "description": "Build a RESTful API according to an MVC architecture for a single resource based on your choosing. For example, if you were going to build an API for a Snack resources your routes might look like:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpizarro03/api_from_scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpizarro03/api_from_scratch/issues"
+  },
+  "homepage": "https://github.com/mpizarro03/api_from_scratch#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  }
+}
