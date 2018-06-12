@@ -19,6 +19,7 @@
   "homepage": "https://github.com/mpizarro03/api_from_scratch#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "uuid": "^3.2.1"
   }
 }
