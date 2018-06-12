@@ -4,7 +4,7 @@
   "description": "Build a RESTful API according to an MVC architecture for a single resource based on your choosing. For example, if you were going to build an API for a Snack resources your routes might look like:",
   "main": "app.js",
   "scripts": {
-    "start": "npm app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
